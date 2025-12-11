@@ -3,7 +3,7 @@
 * BA/BSc/BCA Fisrt Semester 
 ---
 
-# Unit 1 : [Introduction to Python Programming](Introduction to Python Programming.md)
+# Unit 1 : Introduction to Python Programming
     * Problem solving strategies; 
     * Structure of a Python program; 
     * Syntax and semantics; 
