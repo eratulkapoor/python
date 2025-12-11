@@ -1,2 +1,5 @@
-# python
-Introduction to Python &amp; Its features
+# Programming fundamentals using Python
+---
+* BA/BSc/BCA Fisrt Semester 
+---
+
